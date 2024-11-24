@@ -1,2 +1,4 @@
-# Nombres-Gen
-Scrip generador de nombres 
+### Nombres-Gen
+### CREADO POR KUKITITAKUKI 
+
+# BIENVENIDO GRACIAS POR APOYAR EL PROYECTO
